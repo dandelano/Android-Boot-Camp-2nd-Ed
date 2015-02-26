@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Hotel Room App</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main -->
+    <string name="btn_details_txt">View Details</string>
+
+    <!-- Details -->
+    <string name="hotel_title">Lakeside Hotel</string>
+    <string name="hotel_address">106 Mountain Lake Dr.\nCottage Oaks, MI</string>
+    <string name="hotel_price">Price Range $99 - $159</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+</resources>

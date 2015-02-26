@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HealthyRecipies</string>
+    <string name="recipe_name">Guacamole Recipe</string>
+    <string name="btn_recipe">View Recipe</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ingredient_title">Ingredients</string>
+    <string name="ingredient_list">3 chopped avocado\n1 juiced lime\n1/2 chopped onion\n2chopped tomatoes\n1 T chopped cilantro</string>
+    <string name="direction_title">Directions</string>
+    <string name="direction_text">Mash the ingredients. Add salt, cumin, garlic, and cayenne to taste.</string>
+
+</resources>

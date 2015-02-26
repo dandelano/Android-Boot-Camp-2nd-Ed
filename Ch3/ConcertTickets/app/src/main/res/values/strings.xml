@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConcertTickets</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtTitle">Ticket Vault</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Concert Image</string>
+    <string name="btnCost">Find the Cost</string>
+    <string-array name="txtGroup">
+        <item>Cracked Eggs</item>
+        <item>Spinout</item>
+        <item>ZigZag</item>
+    </string-array>
+
+</resources>

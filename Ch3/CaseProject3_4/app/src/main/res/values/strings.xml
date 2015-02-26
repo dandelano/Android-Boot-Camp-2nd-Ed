@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paint Calculator App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtTitle">Paint Calculator</string>
+    <string name="txtLogoDesc">Paint Calculator Logo</string>
+    <string name="txtHeight">Enter Room Height in ft</string>
+    <string name="txtDistance">Enter Distance in ft</string>
+    <string name="txtSpinnerPrompt">Select Color</string>
+
+    <string-array name="paintColors">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Purple</item>
+    </string-array>
+    <string name="btnCalculate">Calculate</string>
+
+</resources>

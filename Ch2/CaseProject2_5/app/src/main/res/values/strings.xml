@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Your Contacts App</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Address Book -->
+    <string name="address_book_title">Address Book</string>
+    <string name="btn_view_contact_txt">View Contact</string>
+
+    <!-- Contacts -->
+    <string name="contact_title">Contact Info</string>
+
+    <!-- Contact 1 -->
+    <string name="contact_1_lname">Johnson</string>
+    <string name="contact_1_fname">Jack</string>
+    <string name="contact_1_address">1234 Some Rd.\nSaginaw, MI 48604</string>
+    <string name="contact_1_phone">(123)555-1234</string>
+
+    <!-- Contact 2 -->
+    <string name="contact_2_lname">Jones</string>
+    <string name="contact_2_fname">Bob</string>
+    <string name="contact_2_address">4321 That Rd.\nSaginaw, MI 48604</string>
+    <string name="contact_2_phone">(123)555-4321</string>
+
+</resources>

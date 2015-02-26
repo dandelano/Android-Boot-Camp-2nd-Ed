@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Business Card App</string>
+    <string name="my_name">Dan Delano</string>
+    <string name="dream_title">Embedded Software Engineer</string>
+    <string name="my_address">2770 Freeland Rd. Saginaw, MI</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

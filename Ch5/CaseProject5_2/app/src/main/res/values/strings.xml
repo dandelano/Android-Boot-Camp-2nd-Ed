@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sushi Menu App</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Sushi Menu</string>
+    <string name="txtSeaweed">Seaweed Salad</string>
+    <string name="txtSalmon">Salmon Sushi</string>
+    <string name="txtSashimi">Mixed Sashimi</string>
+
+</resources>

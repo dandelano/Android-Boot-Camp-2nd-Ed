@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Latin Music</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtSplash">Sounds of the Caribbean</string>
+    <string name="marimba">Marimba Image</string>
+    <string name="merengue">Merengue Image</string>
+    <string name="btnMarimba">Play Marimba Song</string>
+    <string name="btnMerengue">Play Merengue Song</string>
+
+</resources>
