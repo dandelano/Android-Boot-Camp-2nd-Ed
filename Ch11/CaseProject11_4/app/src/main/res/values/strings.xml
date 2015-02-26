@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Strings -->
+    <string name="app_name">Marathon Race</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Image descriptions -->
+    <string name="imgMarathonDesc">Marathon</string>
+    <string name="imgMedalDesc">Medal Earned</string>
+
+    <!-- Text Labels -->
+    <string name="txtTitle">Marathon Race</string>
+
+    <!-- Input Hints -->
+    <string name="txtHours">Enter Hours</string>
+    <string name="txtMinutes">Enter Minutes</string>
+
+    <!-- Button labels -->
+    <string name="btnEnterTime">Enter Time</string>
+
+</resources>
