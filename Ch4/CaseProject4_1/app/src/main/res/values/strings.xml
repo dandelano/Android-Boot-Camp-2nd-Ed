@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Tool Rental</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtTitle">Rent a Tool</string>
+    <string name="txtHint">Number of Days</string>
+    <string name="txtPowerWasher">Power Washer</string>
+    <string name="txtTiler">Tiler</string>
+    <string name="btnComputeCost">Compute Cost</string>
+</resources>

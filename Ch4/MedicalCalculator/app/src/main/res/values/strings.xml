@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Medical Calculator</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- app strings -->
+    <string name="hint">Weight of Patient</string>
+    <string name="txtTitle">Convert Patient Weight</string>
+    <string name="radLbToKilo">Convert Pounds to Kilograms</string>
+    <string name="radKiloToLb">Convert Kilograms to Pounds</string>
+    <string name="btnConvert">Convert Weight</string>
+
+</resources>

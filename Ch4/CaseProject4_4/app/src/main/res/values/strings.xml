@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Math Flash Cards</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtTitle">Practice Math</string>
+    <string name="txtHintOne">Enter First Number</string>
+    <string name="txtHintTwo">Enter Second Number</string>
+    <string name="txtAddition">Addition</string>
+    <string name="txtSubtraction">Subtraction</string>
+    <string name="txtMultiplication">Multiplication</string>
+    <string name="txtSolution">Show Solution</string>
+
+</resources>

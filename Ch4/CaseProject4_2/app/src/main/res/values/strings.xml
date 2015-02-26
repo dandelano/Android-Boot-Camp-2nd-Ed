@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zip Car Rental</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtTitle">Rent a Zip Car</string>
+    <string name="txtHint">Number of Days</string>
+    <string name="txtCompact">Compact</string>
+    <string name="txtMidSize">Mid-Size</string>
+    <string name="txtLuxury">Luxury</string>
+    <string name="txtComputeCost">Compute Cost</string>
+
+</resources>
