@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anthology Wedding Photo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="imgLarge">Wedding Images</string>
+    <string name="txtContact">Contact Us at anthology@wed.com</string>
+</resources>
