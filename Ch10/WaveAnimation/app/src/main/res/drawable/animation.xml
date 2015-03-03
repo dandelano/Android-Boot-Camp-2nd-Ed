@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:oneshot="false">
+    <item android:drawable="@drawable/surf1" android:duration="100" />
+    <item android:drawable="@drawable/surf2" android:duration="100" />
+    <item android:drawable="@drawable/surf3" android:duration="100" />
+    <item android:drawable="@drawable/surf4" android:duration="100" />
+    <item android:drawable="@drawable/surf5" android:duration="100" />
+</animation-list>
