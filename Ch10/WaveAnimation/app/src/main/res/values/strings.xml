@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WaveAnimation</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgDescription">Surfing Image</string>
+    <string name="btnStart">Start Frame Animation</string>
+    <string name="btnStop">Start Tween Animation</string>
+    <string name="title_activity_tween">tween</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
