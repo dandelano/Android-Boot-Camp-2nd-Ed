@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".ESGMainActivity">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:text="Images of Endangered Species"/>
+
+    <Gallery
+        android:id="@+id/gallery1"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="Species Images" />
+</LinearLayout>
